@@ -1,0 +1,6 @@
+[submodule "PCB/lib/"]
+	path = PCB/lib/
+	url = https://github.com/HandHeldLegend/HHL-KiCad-Lib
+[submodule "PCB/lib"]
+	path = PCB/lib
+	url = https://github.com/HandHeldLegend/HHL-KiCad-Lib
