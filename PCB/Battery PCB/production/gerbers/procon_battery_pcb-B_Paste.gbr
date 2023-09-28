@@ -1,0 +1,31 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
+%TF.CreationDate,2023-09-27T22:25:32-07:00*%
+%TF.ProjectId,procon_battery_pcb,70726f63-6f6e-45f6-9261-74746572795f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-09-27 22:25:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,3.280000X1.750000*%
+%ADD11R,1.200000X2.450000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,U1*%
+X77367000Y-36858200D03*
+D11*
+X76327000Y-36858200D03*
+D10*
+X77367000Y-33858200D03*
+D11*
+X76327000Y-33858200D03*
+D10*
+X77367000Y-30858200D03*
+D11*
+X76327000Y-30858200D03*
+%TD*%
+M02*

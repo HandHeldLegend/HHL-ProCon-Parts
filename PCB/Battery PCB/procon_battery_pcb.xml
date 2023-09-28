@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Mitch\GitRepos\HHL-ProCon-Parts\PCB\Battery PCB\procon_battery_pcb.kicad_sch</source>
+    <date>9/27/2023 10:26:14 PM</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>procon_battery_pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>1982633-1</value>
+      <footprint>hhl:1982633-1</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1982633%7FA%7Fpdf%7FEnglish%7FENG_CD_1982633_A.pdf%7F1982633-1</datasheet>
+      <libsource lib="hhl" part="1982633-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_battery_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bb6a2d1-01b1-410d-ba54-0e5f50a6b29b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hhl" part="1982633-1">
+      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1982633%7FA%7Fpdf%7FEnglish%7FENG_CD_1982633_A.pdf%7F1982633-1</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">1982633-1</field>
+        <field name="Footprint">hhl:1982633-1</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F1982633%7FA%7Fpdf%7FEnglish%7FENG_CD_1982633_A.pdf%7F1982633-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="POS" type="input"/>
+        <pin num="2" name="NC" type="input"/>
+        <pin num="3" name="COM" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="hhl">
+      <uri>C:\Users\Mitch\GitRepos\HHL-ProCon-Parts\PCB\Battery PCB/../lib/hhl.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BATTERY_POS">
+      <node ref="U1" pin="1" pinfunction="POS" pintype="input"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="U1" pin="3" pinfunction="COM" pintype="input"/>
+    </net>
+    <net code="5" name="unconnected-(U1-NC-Pad2)">
+      <node ref="U1" pin="2" pinfunction="NC" pintype="input"/>
+    </net>
+  </nets>
+</export>
