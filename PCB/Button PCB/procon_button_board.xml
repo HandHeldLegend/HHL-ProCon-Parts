@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\Mitch\GitRepos\ProGCCv3-hhlprotos\progcc_v3_button\procon_gcc_button_board.kicad_sch</source>
-    <date>6/6/2023 9:43:11 PM</date>
-    <tool>Eeschema 7.0.2</tool>
+    <source>C:\Users\Mitch\GitRepos\HHL-ProCon-Parts\PCB\Button PCB\procon_button_board.kicad_sch</source>
+    <date>12/22/2023 1:43:53 PM</date>
+    <tool>Eeschema 7.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ProGCC v3 Button Board</title>
         <company>HHL/Esca</company>
         <rev>0.2</rev>
         <date>2019-12-18</date>
-        <source>procon_gcc_button_board.kicad_sch</source>
+        <source>procon_button_board.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -26,11 +26,11 @@
   <components>
     <comp ref="D1">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
@@ -38,11 +38,11 @@
     </comp>
     <comp ref="D2">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
@@ -50,11 +50,11 @@
     </comp>
     <comp ref="D3">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
@@ -62,11 +62,11 @@
     </comp>
     <comp ref="D4">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
@@ -74,11 +74,11 @@
     </comp>
     <comp ref="D5">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
@@ -86,15 +86,15 @@
     </comp>
     <comp ref="D6">
       <value>BAS16VY,115</value>
-      <footprint>progcc_v3:SOT-363_SC-70-6</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</datasheet>
       <libsource lib="progcc_v3" part="BAS16VY,115" description="Fast switching diode array 3 independent"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Fast switching diode array 3 independent"/>
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>083b3f2b-4bf2-4769-9d14-b1aff41500e3 a1323134-d05a-4c1a-b516-83068585bf5f 06100c86-ff68-4940-b5c1-696c122b08d0</tstamps>
+      <tstamps>a1323134-d05a-4c1a-b516-83068585bf5f 083b3f2b-4bf2-4769-9d14-b1aff41500e3 06100c86-ff68-4940-b5c1-696c122b08d0</tstamps>
     </comp>
     <comp ref="J1">
       <value>To Button Board</value>
@@ -105,7 +105,7 @@
       <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/molex/5051101492/WM12370CT-ND/5726229"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -122,7 +122,7 @@
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/molex/5051100592/WM12361TR-ND/5700453"/>
       <property name="MPN" value="molex_5034800540"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -130,185 +130,185 @@
     </comp>
     <comp ref="L1">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cce0a2cd-2350-4abd-90b8-bf86ff5720e7</tstamps>
     </comp>
     <comp ref="L2">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>349dd869-9651-4acb-ad6c-4d1e961e600a</tstamps>
     </comp>
     <comp ref="L3">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4697238-eebb-46ad-8738-87e7cedabbe3</tstamps>
     </comp>
     <comp ref="L4">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fce9fa48-d473-4fd4-8524-20ceb4066f9a</tstamps>
     </comp>
     <comp ref="L5">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cc9ac030-9ff4-4bb4-9cb4-775d267fb113</tstamps>
     </comp>
     <comp ref="L6">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6f42ecda-0a3b-4939-8697-f5c3c23e72cc</tstamps>
     </comp>
     <comp ref="L7">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6452eef6-90f0-4cfe-bf7c-4cab2854590b</tstamps>
     </comp>
     <comp ref="L8">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6e2c1226-2da1-44fb-90ef-426e655a760b</tstamps>
     </comp>
     <comp ref="L9">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>01582f71-65c4-4b1a-b58d-de04e031ad55</tstamps>
     </comp>
     <comp ref="L10">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>23acdba4-f200-4b44-ae43-cdf80e9a4a43</tstamps>
     </comp>
     <comp ref="L11">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>471f14e3-ac5b-4671-8299-f8d00ff92c1a</tstamps>
     </comp>
     <comp ref="L12">
       <value>SK6805-EC-15</value>
-      <footprint>progcc_v3:SK6805-EC-15</footprint>
+      <footprint>hhl:SK6805-EC-15</footprint>
       <datasheet>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</datasheet>
       <libsource lib="progcc_v3" part="SK6805-EC-15" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f46f5f86-202f-4915-8b1a-f6181a2eaf7a</tstamps>
     </comp>
     <comp ref="SW1">
       <value> TL3315NF100Q</value>
-      <footprint>progcc_v3:TL3315NFxxxQ</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</datasheet>
+      <footprint>hhl:PTS540JM035SMTRLFS</footprint>
+      <datasheet>https://www.ckswitches.com/media/1470/pts540.pdf</datasheet>
       <fields>
         <field name="Digikey">https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400</field>
+        <field name="MPN">PTS540JM035SMTRLFS</field>
       </fields>
-      <libsource lib="progcc_v3" part="SW_Quad" description="Push button switch, generic, two pins"/>
+      <libsource lib="progcc_v3" part="PTS540JM035SMTRLFS" description=""/>
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400"/>
+      <property name="MPN" value="PTS540JM035SMTRLFS"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
-      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>55e52756-3c90-4343-a431-7a30f67fad81</tstamps>
     </comp>
     <comp ref="SW2">
       <value> TL3315NF100Q</value>
-      <footprint>progcc_v3:TL3315NFxxxQ</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</datasheet>
+      <footprint>hhl:PTS540JM035SMTRLFS</footprint>
+      <datasheet>https://www.ckswitches.com/media/1470/pts540.pdf</datasheet>
       <fields>
         <field name="Digikey">https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400</field>
+        <field name="MPN">PTS540JM035SMTRLFS</field>
       </fields>
-      <libsource lib="progcc_v3" part="SW_Quad" description="Push button switch, generic, two pins"/>
+      <libsource lib="progcc_v3" part="PTS540JM035SMTRLFS" description=""/>
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400"/>
+      <property name="MPN" value="PTS540JM035SMTRLFS"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
-      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000061c1dc75</tstamps>
     </comp>
     <comp ref="SW3">
       <value> TL3315NF100Q</value>
-      <footprint>progcc_v3:TL3315NFxxxQ</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</datasheet>
+      <footprint>hhl:PTS540JM035SMTRLFS</footprint>
+      <datasheet>https://www.ckswitches.com/media/1470/pts540.pdf</datasheet>
       <fields>
         <field name="Digikey">https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400</field>
+        <field name="MPN">PTS540JM035SMTRLFS</field>
       </fields>
-      <libsource lib="progcc_v3" part="SW_Quad" description="Push button switch, generic, two pins"/>
+      <libsource lib="progcc_v3" part="PTS540JM035SMTRLFS" description=""/>
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400"/>
+      <property name="MPN" value="PTS540JM035SMTRLFS"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
-      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fe2a52e8-2a81-4681-b9e1-c20a80daad03</tstamps>
     </comp>
     <comp ref="SW4">
       <value> TL3315NF100Q</value>
-      <footprint>progcc_v3:TL3315NFxxxQ</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</datasheet>
+      <footprint>hhl:PTS540JM035SMTRLFS</footprint>
+      <datasheet>https://www.ckswitches.com/media/1470/pts540.pdf</datasheet>
       <fields>
         <field name="Digikey">https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400</field>
+        <field name="MPN">PTS540JM035SMTRLFS</field>
       </fields>
-      <libsource lib="progcc_v3" part="SW_Quad" description="Push button switch, generic, two pins"/>
+      <libsource lib="progcc_v3" part="PTS540JM035SMTRLFS" description=""/>
       <property name="Digikey" value="https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400"/>
+      <property name="MPN" value="PTS540JM035SMTRLFS"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
-      <property name="ki_description" value="Push button switch, generic, two pins"/>
-      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005dddee01</tstamps>
     </comp>
@@ -317,7 +317,7 @@
       <footprint>progcc_v3:progcc_bpad</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
@@ -328,7 +328,7 @@
       <footprint>progcc_v3:progcc_bpad</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
@@ -339,7 +339,7 @@
       <footprint>progcc_v3:progcc_bpad</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
@@ -350,7 +350,7 @@
       <footprint>progcc_v3:progcc_bpad</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="procon_gcc_button_board.kicad_sch"/>
+      <property name="Sheetfile" value="procon_button_board.kicad_sch"/>
       <property name="ki_description" value="Push button switch, generic, two pins"/>
       <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
       <sheetpath names="/" tstamps="/"/>
@@ -420,7 +420,6 @@
     </libpart>
     <libpart lib="progcc_v3" part="BAS16VY,115">
       <description>Fast switching diode array 3 independent</description>
-      <docs>${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</docs>
       <footprints>
         <fp>*SOT?363*</fp>
       </footprints>
@@ -428,7 +427,6 @@
         <field name="Reference">D</field>
         <field name="Value">BAS16VY,115</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
-        <field name="Datasheet">${KIPRJMOD}/../progcc_v3_libs/docs/BAS16_SER.pdf</field>
       </fields>
       <pins>
         <pin num="1" name="A" type="passive"/>
@@ -439,12 +437,28 @@
         <pin num="6" name="K" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="progcc_v3" part="PTS540JM035SMTRLFS">
+      <docs>https://www.ckswitches.com/media/1470/pts540.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PTS540JM035SMTRLFS</field>
+        <field name="Footprint">hhl:PTS540JM035SMTRLFS</field>
+        <field name="Datasheet">https://www.ckswitches.com/media/1470/pts540.pdf</field>
+        <field name="MPN">PTS540JM035SMTRLFS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+        <pin num="4" name="4" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="progcc_v3" part="SK6805-EC-15">
       <docs>${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</docs>
       <fields>
         <field name="Reference">L</field>
         <field name="Value">SK6805-EC-15</field>
-        <field name="Footprint">progcc_v3:SK6805-EC-15</field>
+        <field name="Footprint">hhl:SK6805-EC-15</field>
         <field name="Datasheet">${KIPRJMOD}/../progcc_v3_libs/docs/SK6805-EC-15.pdf</field>
       </fields>
       <pins>
@@ -452,23 +466,6 @@
         <pin num="2" name="VDD" type="power_in"/>
         <pin num="3" name="DOUT" type="output"/>
         <pin num="4" name="GND" type="power_in"/>
-      </pins>
-    </libpart>
-    <libpart lib="progcc_v3" part="SW_Quad">
-      <description>Push button switch, generic, two pins</description>
-      <docs>https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</docs>
-      <fields>
-        <field name="Reference">SW3</field>
-        <field name="Value"> TL3315NF100Q</field>
-        <field name="Footprint">procon_gcc:TL3315NFxxxQ</field>
-        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/E-Switch%20PDFs/TL3315.pdf</field>
-        <field name="Digikey">https://www.digikey.com/product-detail/en/e-switch/TL3315NF100Q/EG4620CT-ND/1870400</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="4" type="passive"/>
       </pins>
     </libpart>
   </libparts>
@@ -483,7 +480,7 @@
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="progcc_v3">
-      <uri>C:\Users\Mitch\GitRepos\ProGCCv3-hhlprotos\progcc_v3_button/../progcc_v3_libs/symbols/progcc_v3.kicad_sym</uri>
+      <uri>C:\Users\Mitch\GitRepos\HHL-ProCon-Parts\PCB\Button PCB/../lib/hhl.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -520,8 +517,8 @@
     </net>
     <net code="6" name="Capture_Pull">
       <node ref="D5" pin="5" pinfunction="K" pintype="passive"/>
-      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="input"/>
     </net>
     <net code="7" name="DD_Pull">
       <node ref="D3" pin="5" pinfunction="K" pintype="passive"/>
@@ -553,8 +550,8 @@
     </net>
     <net code="12" name="Home_Pull">
       <node ref="D2" pin="4" pinfunction="K" pintype="passive"/>
-      <node ref="SW3" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="SW3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="SW3" pin="4" pinfunction="4" pintype="input"/>
     </net>
     <net code="13" name="L_Pull">
       <node ref="D5" pin="4" pinfunction="K" pintype="passive"/>
@@ -566,8 +563,8 @@
     </net>
     <net code="15" name="Minus_Pull">
       <node ref="D4" pin="6" pinfunction="K" pintype="passive"/>
-      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="input"/>
     </net>
     <net code="16" name="NC">
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
@@ -618,8 +615,8 @@
     </net>
     <net code="27" name="Plus_Pull">
       <node ref="D1" pin="5" pinfunction="K" pintype="passive"/>
-      <node ref="SW4" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="SW4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW4" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="SW4" pin="4" pinfunction="4" pintype="input"/>
     </net>
     <net code="28" name="Push_A">
       <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
@@ -665,14 +662,14 @@
     </net>
     <net code="35" name="Scan_C">
       <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="input"/>
     </net>
     <net code="36" name="Scan_D">
       <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
