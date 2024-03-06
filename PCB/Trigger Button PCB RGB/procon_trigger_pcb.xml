@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Mitch\GitRepos\HHL-ProCon-Parts\PCB\Trigger Button PCB RGB\procon_trigger_pcb.kicad_sch</source>
+    <date>3/5/2024 5:33:11 PM</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>procon_trigger_pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x05_Pin</value>
+      <footprint>hhl:molex_5034800540_ribbon</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc08a7cb-d5e2-4551-8946-94199125d83d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x05_Pin</value>
+      <footprint>hhl:molex_5034800540_ribbon</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a4f70dc-27ad-454e-824a-eb68dffc42cd</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>SK6805-EC-10</value>
+      <footprint>hhl:SK6805-EC-10</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-10</field>
+      </fields>
+      <libsource lib="hhl" part="SK6805-EC-10" description=""/>
+      <property name="DNP" value=""/>
+      <property name="MPN" value="SK6805-EC-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>634c9f06-d20b-4570-9fa8-045bfa15c8e6</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>SK6805-EC-10</value>
+      <footprint>hhl:SK6805-EC-10</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-10</field>
+      </fields>
+      <libsource lib="hhl" part="SK6805-EC-10" description=""/>
+      <property name="DNP" value=""/>
+      <property name="MPN" value="SK6805-EC-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a9907d1-f2aa-4f09-bded-3fae093f4963</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>SK6805-EC-10</value>
+      <footprint>hhl:SK6805-EC-10</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-10</field>
+      </fields>
+      <libsource lib="hhl" part="SK6805-EC-10" description=""/>
+      <property name="DNP" value=""/>
+      <property name="MPN" value="SK6805-EC-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6772c3a9-ac52-4cb4-be2f-a962c0842a95</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>SK6805-EC-10</value>
+      <footprint>hhl:SK6805-EC-10</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</datasheet>
+      <fields>
+        <field name="MPN">SK6805-EC-10</field>
+      </fields>
+      <libsource lib="hhl" part="SK6805-EC-10" description=""/>
+      <property name="DNP" value=""/>
+      <property name="MPN" value="SK6805-EC-10"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ab1887-fd8f-4d7a-af1f-a4a13eff741a</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>hhl:starprint</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d78c8317-e9df-437c-a302-bc40df719beb</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>hhl:starprint</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df1759d8-f12c-4aa2-8f3c-93ad8aae2bcb</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>hhl:starprint</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aacb3643-b4d5-4e45-aafe-a8983fe547cd</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>hhl:starprint</footprint>
+      <fields>
+        <field name="DNP">DNP</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="DNP" value="DNP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="procon_trigger_pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>faa2fec4-f7e7-47b2-9015-bccf7d4463b8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x05_Pin">
+      <description>Generic connector, single row, 01x05, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hhl" part="SK6805-EC-10">
+      <docs>https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SK6805-EC-10</field>
+        <field name="Footprint">hhl:SK6805-EC-10</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/5849/SK6805-EC10-000_REV.01_EN.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DIN" type="input"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="DOUT" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="hhl">
+      <uri>C:/Users/Mitch/GitRepos/hhl-kicad-lib/hhl.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L4" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="L1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="L4" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="3" name="L_Pull">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(L1-DOUT)">
+      <node ref="L1" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L2" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(L2-DOUT)">
+      <node ref="L2" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L3" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(L3-DOUT)">
+      <node ref="L3" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="L4" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="R_Pull">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Scan_D">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="TRIGGER_RGB">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="ZL_Pull">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="ZR_Pull">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(L4-DOUT-Pad3)">
+      <node ref="L4" pin="3" pinfunction="DOUT" pintype="output"/>
+    </net>
+  </nets>
+</export>
