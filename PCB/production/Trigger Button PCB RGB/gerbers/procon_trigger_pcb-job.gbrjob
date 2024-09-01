@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.6"
+      "Version": "8.0.2"
     },
-    "CreationDate": "2024-03-05T21:20:05-08:00"
+    "CreationDate": "2024-09-01T00:44:22-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,11 +54,6 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "procon_trigger_pcb-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "procon_trigger_pcb-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
@@ -91,6 +86,11 @@
     {
       "Path": "procon_trigger_pcb-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "procon_trigger_pcb-User_1.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],

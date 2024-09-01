@@ -1,0 +1,4 @@
+"Reference","Value","Footprint","Qty","DNP","MPN"
+"J1,J2","Conn_01x05_Pin","hhl:molex_5034800540_ribbon","2","DNP",""
+"L1,L2,L3,L4","SK6805-EC-10","hhl:SK6805-EC-10","4","","SK6805-EC-10"
+"SW1,SW2,SW3,SW4","SW_Push","hhl:starprint","4","DNP",""

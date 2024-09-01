@@ -1,7 +1,0 @@
-### Footprint positions - created on Wed Sep 27 22:25:56 2023 ###
-### Printed by KiCad version 7.0.6
-## Unit = mm, Angle = deg.
-## Side : top
-# Ref     Val             Package                PosX       PosY       Rot  Side
-J1        Conn_01x04_Pin  4PinHeaderLong      51.6072   -51.1302   90.0000  top
-## End

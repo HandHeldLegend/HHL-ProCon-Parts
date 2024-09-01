@@ -1,0 +1,7 @@
+"Reference","Value","MPN","Footprint","Qty","DNP"
+"D1,D2,D3,D4,D5,D6","BAS16VY,115","BAS16VY,115","Package_TO_SOT_SMD:SOT-363_SC-70-6","6",""
+"L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13","SK6805-EC-10","SK6805-EC-10","hhl:SK6805-EC-10","13",""
+"SW5,SW6,SW7,SW8","BPAD","","hhl:ring_pad","4","DNP"
+"SW1,SW2,SW3,SW4"," TL3315NF100Q","PTS540JM035SMTRLFS","hhl:PTS540JM035SMTRLFS","4",""
+"J2,J3","bumpers","molex_5034800540","progcc_v3:molex_5034800540","2",""
+"J1","To Button Board","molex_5051101492_14P","progcc_v3:molex_5051101492_14P","1",""
