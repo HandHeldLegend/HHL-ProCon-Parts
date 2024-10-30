@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "66ccae15-bdda-4cc3-9929-1e00900e8852")
 	(paper "A4")
+	(title_block
+		(title "ProGCC RGB Trigger Flex PCB")
+		(date "2024-10-29")
+		(company "Hand Held Legend, LLC")
+		(comment 1 "Designed by Mitch Cairns")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x05_Pin"
 			(pin_names
@@ -1835,7 +1841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RGB LED"
 			(at 125.73 123.19 0)
 			(effects
 				(font
@@ -1854,6 +1860,33 @@
 			)
 		)
 		(property "MPN" "SK6805-EC-10"
+			(at 125.73 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 125.73 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 125.73 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SK6805-EC-10"
 			(at 125.73 123.19 0)
 			(effects
 				(font
@@ -1927,7 +1960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RGB LED"
 			(at 180.34 123.19 0)
 			(effects
 				(font
@@ -1946,6 +1979,33 @@
 			)
 		)
 		(property "MPN" "SK6805-EC-10"
+			(at 180.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 180.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 180.34 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SK6805-EC-10"
 			(at 180.34 123.19 0)
 			(effects
 				(font
@@ -2021,7 +2081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 88.9 107.95 0)
 			(effects
 				(font
@@ -2031,6 +2091,42 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "-"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "-"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "-"
+			(at 88.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "-"
 			(at 88.9 107.95 0)
 			(effects
 				(font
@@ -2107,7 +2203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RGB LED"
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -2126,6 +2222,33 @@
 			)
 		)
 		(property "MPN" "SK6805-EC-10"
+			(at 152.4 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 152.4 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 152.4 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SK6805-EC-10"
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -2209,6 +2332,33 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 128.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 128.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 128.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 128.27 86.36 0)
 			(effects
 				(font
@@ -2353,7 +2503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RGB LED"
 			(at 208.28 123.19 0)
 			(effects
 				(font
@@ -2372,6 +2522,33 @@
 			)
 		)
 		(property "MPN" "SK6805-EC-10"
+			(at 208.28 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 208.28 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 208.28 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SK6805-EC-10"
 			(at 208.28 123.19 0)
 			(effects
 				(font
@@ -2447,7 +2624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "-"
 			(at 88.9 86.36 0)
 			(effects
 				(font
@@ -2457,6 +2634,42 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "-"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "-"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "-"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "-"
 			(at 88.9 86.36 0)
 			(effects
 				(font
@@ -2628,6 +2841,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 128.27 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 128.27 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 128.27 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2caab513-8b6f-4d12-91a3-1ea838d461c7")
 		)
@@ -2697,6 +2937,33 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 128.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 128.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 128.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 128.27 76.2 0)
 			(effects
 				(font
@@ -2851,6 +3118,33 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 128.27 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 128.27 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 128.27 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 128.27 96.52 0)
 			(effects
 				(font

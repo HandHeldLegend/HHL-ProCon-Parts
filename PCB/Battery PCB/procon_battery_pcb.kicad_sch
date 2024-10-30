@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "19c3a8aa-edcf-4599-9223-4b277efcfe1f")
 	(paper "User" 135.001 89.9922)
+	(title_block
+		(title "ProCon Battery PCB")
+		(date "2024-10-29")
+		(company "Hand Held Legend, LLC")
+		(comment 1 "Designed by Mitch Cairns")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
@@ -655,7 +661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "BatteryConnector"
 			(at 39.37 26.67 0)
 			(effects
 				(font
@@ -674,6 +680,33 @@
 			)
 		)
 		(property "Price" "1.08"
+			(at 39.37 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5877665"
+			(at 39.37 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.lcsc.com/product-detail/BatteryConnector_TE-Connectivity-1982633-1_C5877665.html"
+			(at 39.37 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "-"
 			(at 39.37 26.67 0)
 			(effects
 				(font
@@ -763,6 +796,33 @@
 			)
 		)
 		(property "Price" ""
+			(at 63.5 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 63.5 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 63.5 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 63.5 26.67 0)
 			(effects
 				(font
