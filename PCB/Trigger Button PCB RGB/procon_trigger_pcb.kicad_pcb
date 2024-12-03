@@ -3445,6 +3445,50 @@
 		(layer "F.SilkS")
 		(uuid "faef1a2d-676b-4267-a7a2-c8cd5327df4f")
 	)
+	(gr_rect
+		(start 192.372479 116.365001)
+		(end 193.472479 117.465001)
+		(stroke
+			(width 0.001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "a79289bd-1a9a-4c66-99ff-9d123d050560")
+	)
+	(gr_rect
+		(start 262.793334 116.391286)
+		(end 263.893334 117.491286)
+		(stroke
+			(width 0.001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "d1fbd097-069a-416c-b3b3-4a3d1a2d6ee9")
+	)
+	(gr_rect
+		(start 269.350856 136.384475)
+		(end 270.450856 137.484475)
+		(stroke
+			(width 0.001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "df7d0519-981f-4b8a-ac44-18c47cb2ea86")
+	)
+	(gr_rect
+		(start 185.77338 136.356287)
+		(end 186.87338 137.456287)
+		(stroke
+			(width 0.001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "e60ce8ea-38ac-4065-850f-1598e72c1a35")
+	)
 	(gr_circle
 		(center 269.9 141.935)
 		(end 270.2 142.225)
